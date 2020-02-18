@@ -1,2 +1,2 @@
-# DS-Fun
- Collection of random data science endeavours 
+# DS fun
+ Collection of random data science endeavours.
