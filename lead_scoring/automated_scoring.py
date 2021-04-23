@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+pip install psycopg2
 import psycopg2
 
 import pandas as pd
