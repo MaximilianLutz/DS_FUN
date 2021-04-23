@@ -3,7 +3,9 @@
 
 # In[1]:
 
-pip install psycopg2
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", psycopg2])
+
 import psycopg2
 
 import pandas as pd
