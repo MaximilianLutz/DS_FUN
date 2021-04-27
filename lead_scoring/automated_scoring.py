@@ -765,7 +765,7 @@ Final1.head()
 # In[35]:
 
 
-excelfilename="/Users/amareid/leadscoring_output/"+todaysdate2+".xlsx"
+excelfilename="/Users/maximilianlutz/ls"+todaysdate2+".xlsx"
 
 
 # In[36]:
